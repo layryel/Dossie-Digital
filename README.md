@@ -11,7 +11,7 @@
 
 # 🇧🇷 Português
 
-## 📌 Sobre este repositório
+### 📌 Sobre este repositório
 
 Este repositório funciona como um dossiê de projetos, reunindo trabalhos desenvolvidos nas áreas de comunicação, jornalismo e tecnologia.
 
@@ -19,7 +19,7 @@ Aqui estão organizadas produções acadêmicas, conteúdos institucionais e apl
 
 ---
 
-## 🏆 Destaques do dossiê
+### 🏆 Destaques do dossiê
 
 - 🎤 Apresentação no Congresso ENGETEC  
 - 📰 Publicações na Revista Izunome (IMMB)  
@@ -27,26 +27,26 @@ Aqui estão organizadas produções acadêmicas, conteúdos institucionais e apl
 
 ---
 
-## 📂 Estrutura dos projetos
+### 📂 Estrutura dos projetos
 
-### 📰 Comunicação & Jornalismo
+#### 📰 Comunicação & Jornalismo
 - Produção de matérias e conteúdos institucionais  
 - Cobertura de eventos  
 - Roteiros e adaptação de linguagem  
 
-### 💻 Tecnologia & Desenvolvimento
+#### 💻 Tecnologia & Desenvolvimento
 - Aplicações web  
 - Projetos acadêmicos  
 - Sistemas e experimentos  
 
-### 📊 Projetos híbridos
+#### 📊 Projetos híbridos
 - Integração entre comunicação e tecnologia  
 - Conteúdo digital estruturado  
 - Soluções voltadas à comunicação  
 
 ---
 
-## 🚀 Projetos em destaque
+### 🚀 Projetos em destaque
 
 🔹 **[BabyD](https://github.com/layryel/BabyD)**  
 Aplicação desenvolvida como Trabalho de Conclusão de Curso (TCC), integrando tecnologia e solução prática com foco em usabilidade e organização de informações.
@@ -59,7 +59,7 @@ Repositório que reúne atividades, projetos e cursos realizados ao longo do 3º
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,php,github,figma,kotlin"/>
@@ -68,7 +68,7 @@ Repositório que reúne atividades, projetos e cursos realizados ao longo do 3º
 
 ---
 
-## 📰 Habilidades em Comunicação
+### 📰 Habilidades em Comunicação
 
 <p align="center">
   <img src="https://img.shields.io/badge/Redação%20Jornalística-000000?style=for-the-badge">
@@ -92,7 +92,7 @@ Muito obrigada por visitar meu GitHub! Caso queira se conectar comigo, estarei d
 
 # 🇺🇸 English
 
-## 📌 About this repository
+### 📌 About this repository
 
 This repository works as a project dossier, bringing together work developed in communication, journalism, and technology.
 
@@ -100,7 +100,7 @@ It includes academic projects, institutional content, and digital applications, 
 
 ---
 
-## 🏆 Highlights
+### 🏆 Highlights
 
 - 🎤 Speaker at ENGETEC Conference  
 - 📰 Publications in Izunome Magazine (IMMB)  
@@ -108,26 +108,26 @@ It includes academic projects, institutional content, and digital applications, 
 
 ---
 
-## 📂 Project structure
+### 📂 Project structure
 
-### 📰 Communication & Journalism
+#### 📰 Communication & Journalism
 - Institutional and journalistic content  
 - Event coverage  
 - Scriptwriting and content adaptation  
 
-### 💻 Technology & Development
+#### 💻 Technology & Development
 - Web applications  
 - Academic projects  
 - Systems and experiments  
 
-### 📊 Hybrid projects
+#### 📊 Hybrid projects
 - Communication + technology integration  
 - Structured digital content  
 - Communication-focused solutions  
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 🔹 **[BabyD](https://github.com/layryel/BabyD)**  
 Application developed as a Final Course Project (TCC), integrating technology with a practical solution focused on usability and information organization.
@@ -140,7 +140,7 @@ Repository gathering activities, projects, and courses completed during the fina
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,php,github,figma,kotlin"/>
@@ -149,7 +149,7 @@ Repository gathering activities, projects, and courses completed during the fina
 
 ---
 
-## 📰 Communication Skills
+### 📰 Communication Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Journalistic%20Writing-000000?style=for-the-badge">
