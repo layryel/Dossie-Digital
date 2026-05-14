@@ -25,7 +25,6 @@ Aqui estão organizadas produções acadêmicas, conteúdos institucionais e apl
 - 📰 Publicações na Revista Izunome (IMMB)  
 - 🎓 Trabalho de Conclusão de Curso (TCC)  
 
----
 
 ### 📂 Estrutura dos projetos
 
@@ -44,7 +43,6 @@ Aqui estão organizadas produções acadêmicas, conteúdos institucionais e apl
 - Conteúdo digital estruturado  
 - Soluções voltadas à comunicação  
 
----
 
 ### 🚀 Projetos em destaque
 
@@ -57,7 +55,6 @@ Projeto de desenvolvimento de site para floricultura, com foco em estruturação
 🔹 **[Portfólio AMS 2024](https://github.com/layryel/PortfolioAMS2024-3DS)**  
 Repositório que reúne atividades, projetos e cursos realizados ao longo do 3º ano do curso técnico em Desenvolvimento de Sistemas.
 
----
 
 ### 🛠️ Tecnologias utilizadas
 
@@ -66,7 +63,6 @@ Repositório que reúne atividades, projetos e cursos realizados ao longo do 3º
     <img src="https://skillicons.dev/icons?i=javascript,java,mysql,laravel,react"/>
 </p>
 
----
 
 ### 📰 Habilidades em Comunicação
 
@@ -106,7 +102,6 @@ It includes academic projects, institutional content, and digital applications, 
 - 📰 Publications in Izunome Magazine (IMMB)  
 - 🎓 Final Project (TCC)  
 
----
 
 ### 📂 Project structure
 
@@ -125,7 +120,6 @@ It includes academic projects, institutional content, and digital applications, 
 - Structured digital content  
 - Communication-focused solutions  
 
----
 
 ### 🚀 Featured Projects
 
@@ -138,7 +132,6 @@ Website development project for a flower shop, focused on visual structure, user
 🔹 **[AMS Portfolio 2024](https://github.com/layryel/PortfolioAMS2024-3DS)**  
 Repository gathering activities, projects, and courses completed during the final year of the Systems Development technical program.
 
----
 
 ### 🛠️ Tech Stack
 
@@ -147,7 +140,6 @@ Repository gathering activities, projects, and courses completed during the fina
  <img src="https://skillicons.dev/icons?i=javascript,java,mysql,laravel,react"/>
 </p>
 
----
 
 ### 📰 Communication Skills
 
