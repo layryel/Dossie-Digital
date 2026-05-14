@@ -144,12 +144,12 @@ Repository gathering activities, projects, and courses completed during the fina
 ### 📰 Communication Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Journalistic%20Writing-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Institutional%20Communication-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Content%20Production-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Event%20Coverage-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Scriptwriting-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Text%20Editing-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Journalistic%20Writing-6c3c0c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Institutional%20Communication-855828?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Content%20Production-6c3c0c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Event%20Coverage-855828?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scriptwriting-6c3c0c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Text%20Editing-855828?style=for-the-badge">
 </p>
 
 ---
