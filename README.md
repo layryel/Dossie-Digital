@@ -67,12 +67,12 @@ Repositório que reúne atividades, projetos e cursos realizados ao longo do 3º
 ### 📰 Habilidades em Comunicação
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Redação%20Jornalística-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Comunicação%20Institucional-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Produção%20de%20Conteúdo-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cobertura%20de%20Eventos-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Roteirização-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Edição%20de%20Texto-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Redação%20Jornalística-855828?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Comunicação%20Institucional-6c3c0c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Produção%20de%20Conteúdo-855828?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cobertura%20de%20Eventos-6c3c0c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Roteirização-855828?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Edição%20de%20Texto-6c3c0c?style=for-the-badge">
 </p>
 
 ---
