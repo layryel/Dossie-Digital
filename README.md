@@ -1,6 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c3c0c&height=120&section=header&text=Dossiê%20Digital&fontColor=fff0f6&fontSize=38&fontAlignY=35"/>
-
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c3c0c&height=120&section=header&text=Dossiê%20Digital&fontColor=fff0f6&fontSize=38&fontAlignY=35"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=2000&color=4F3011&center=true&vCenter=true&width=800&lines=Repositório+Central+de+Projetos;Portfólio+de+Comunicação;Publicações+e+Produção+Acadêmica" />
 </p>
 
