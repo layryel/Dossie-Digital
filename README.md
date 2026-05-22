@@ -9,6 +9,22 @@
 
 Este repositório centraliza minha trajetória profissional e acadêmica, unindo o Jornalismo ao Desenvolvimento de Sistemas. Aqui estão organizadas produções que demonstram minha versatilidade em criar conteúdo, gerir comunicação institucional e desenvolver soluções digitais.
 
+
+## 🧭 Navegação do Dossiê
+
+Explore os conteúdos organizados por área de atuação e categoria:
+
+| Área | Acessar |
+|:---|:---:|
+| 📰 **Publicações** | [Abrir](../../tree/Publicações) |
+| 📁 **Geral** | [Abrir](../../tree/Geral) |
+| 📚 **Materiais Pessoais** | [Abrir](../../tree/Materiais-Pessoais) |
+| ⛩️ **Igreja Messiânica** | [Abrir](../../tree/Igreja-Messiânica) |
+| 💻 **Atividades Técnicas** | [Abrir](../../tree/Atividades-Tecnicas) |
+| 🎓 **Atividades Saber** | [Abrir](../../tree/Atividades-Saber) |
+| 🖥️ **Atividades ETEC** | [Abrir](../../tree/Atividades-ETEC) |
+| 🏛️ **Atividades Faculdade** | [Abrir](../../tree/Atividades-Faculdade) |
+
 ---
 
 ### 🏆 Conquistas em Destaque
