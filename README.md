@@ -16,14 +16,14 @@ Explore os conteúdos organizados por área de atuação e categoria:
 
 | Área | Acessar |
 |:---|:---:|
-| 📰 **Publicações** | [Abrir](../../tree/Publicações) |
-| 📁 **Geral** | [Abrir](../../tree/Geral) |
-| 📚 **Materiais Pessoais** | [Abrir](../../tree/Materiais-Pessoais) |
-| ⛩️ **Igreja Messiânica** | [Abrir](../../tree/Igreja-Messiânica) |
-| 💻 **Atividades Técnicas** | [Abrir](../../tree/Atividades-Tecnicas) |
-| 🎓 **Atividades Saber** | [Abrir](../../tree/Atividades-Saber) |
-| 🖥️ **Atividades ETEC** | [Abrir](../../tree/Atividades-ETEC) |
-| 🏛️ **Atividades Faculdade** | [Abrir](../../tree/Atividades-Faculdade) |
+| 📰 **Publicações** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Publicações) |
+| 📁 **Geral** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Geral) |
+| 📚 **Materiais Pessoais** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Materiais-Pessoais) |
+| ⛩️ **Igreja Messiânica** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Igreja-Messiânica) |
+| 💻 **Atividades Técnicas** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Atividades-Tecnicas) |
+| 🎓 **Atividades Saber** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/tree/Atividades-Saber) |
+| 🖥️ **Atividades ETEC** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Atividades-ETEC) |
+| 🏛️ **Atividades Faculdade** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Atividades-Faculdade) |
 
 ---
 
