@@ -21,7 +21,7 @@ Explore os conteúdos organizados por área de atuação e categoria:
 | 📚 **Materiais Pessoais** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Materiais-Pessoais) |
 | ⛩️ **Igreja Messiânica** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Igreja-Messiânica) |
 | 💻 **Atividades Técnicas** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Atividades-Tecnicas) |
-| 🎓 **Atividades Saber** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/tree/Atividades-Saber) |
+| 🎓 **Atividades Saber** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Atividades-Saber) |
 | 🖥️ **Atividades ETEC** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Atividades-ETEC) |
 | 🏛️ **Atividades Faculdade** | [Abrir](https://github.com/layryel/Dossie-Digital/tree/Atividades-Faculdade) |
 
